@@ -1,3 +1,5 @@
+# Tarea 8: Montecarlo
+
 # Montecarlo usado en ahorro para el retiro
 # Se simulan 1,000 futuros posibles de un ahorro.
 # Cada año el rendimiento se sortea al azar (promedio 8%, puede variar +-12%).
